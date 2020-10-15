@@ -1,5 +1,5 @@
 
-## Ugne Dudzeviviute's Web Page
+## Ugne Dudzeviciute's Web Page
 
 ### My Links
 
