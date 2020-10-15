@@ -2,9 +2,9 @@
 ### My Research Areas
 
 - Galaxy formation and evolution 
-- Dynamics of galaxies: decomposing high-$z$ galaxies into stellar, gaseous and dark matter components
-- High-redshift galaxies: multi-wavelength analysis of high-$z$ galaxies
-- Starburst galaxies: physical properties of dusty star-forming galaxies at high-$z$.
+- Dynamics of galaxies: decomposing high-redshift galaxies into stellar, gaseous and dark matter components
+- High-redshift galaxies: multi-wavelength analysis of high-redshift galaxies
+- Starburst galaxies: physical properties of dusty star-forming galaxies at high-redshift.
 
 ### My Research Links
 
