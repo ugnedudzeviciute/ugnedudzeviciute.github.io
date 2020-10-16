@@ -1,3 +1,6 @@
+## About
+
+I am a final year PhD student in the Centre for Extragalctic Astronomy at Durham University. My research focuses on the properties and evolution of normal and dust-obscured star-forming galaxies in the distant Universe. 
 
 ## My Research Areas
 
