@@ -3,7 +3,5 @@
 
 @import"{{ site.theme }}";
 .page-header{
-color:#ffff;
-background-color:#A067AB;
 background-image:"{{ 'Durham_clouds.jpg' | relative_url }}";
 }
