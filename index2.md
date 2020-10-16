@@ -1,3 +1,2 @@
-## My Research Areas
+## Photos & Videos
 
-- **Galaxy formation and evolution**
