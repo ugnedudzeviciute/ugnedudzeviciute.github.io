@@ -1,5 +1,7 @@
 ## Photos & Videos
 
+[ ![](Durham_clouds.jpg) ](Durham_clouds.jpg)
+
 <img src="Durham_clouds.jpg" alt="Noctilucent Clouds"
 	title="Noctilucent Clouds" width="300" height="200" />
 
