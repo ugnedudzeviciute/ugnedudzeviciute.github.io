@@ -1,8 +1,8 @@
 ## Photos & Videos
 
-[![](Durham_clouds.jpg)](Durham_clouds.jpg)
+[![](Durham_clouds.jpg){:height="50%" width="50%"}](Durham_clouds.jpg)
 
-[![](keck_meteor.jpg)](keck_meteor.jpg)
+[![](keck_meteor.jpg){:height="50%" width="50%"}](keck_meteor.jpg)
 
 [ ![](mw.JPG) ](mw.JPG)
 
