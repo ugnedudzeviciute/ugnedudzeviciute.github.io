@@ -4,6 +4,6 @@
 @import"{{ site.theme }}";
 
 .page-header {
-  background-image:<img src="../../Durham_clouds.jpg" width="40%">;
+  background-image:url("../../Durham_clouds.jpg" =100x20);
   background-size:cover;
 }
