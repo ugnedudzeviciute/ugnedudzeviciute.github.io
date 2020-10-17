@@ -2,14 +2,14 @@
 
 [![](Durham_clouds.jpg)](Durham_clouds.jpg)
 
-[![](keck_meteor.jpg)](keck_meteor.jpg)
+[![](keck_meteor2.jpg)](keck_meteor.jpg)
 
-[ ![](mw.JPG) ](mw.JPG)
+[ ![](mw2.JPG) ](mw.JPG)
 
-[ ![](sunset.JPG) ](sunset.JPG)
+[ ![](sunset2.jpg) ](sunset.JPG)
 
-[ ![](sunrise.JPG) ](sunrise.JPG)
+[ ![](sunrise2.jpg) ](sunrise.JPG)
 
-[ ![](jcmt.jpg) ](jcmt.jpg)
+[ ![](jcmt2.jpg) ](jcmt.jpg)
 
 [ ![](full_mw.tif) ](full_mw.tif)
