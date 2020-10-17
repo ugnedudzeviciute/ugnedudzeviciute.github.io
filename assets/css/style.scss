@@ -15,11 +15,10 @@ $section-headings-color: rosybrown;
 }
 
 #Nav a:hover {
-    color: orange;
-    text-decoration: underline;
+    color: steeblue;
 }
 
-.active {color: orange; }
+#Nav a: active {color: steelblue; }
 
 body {
   background-color: black;
