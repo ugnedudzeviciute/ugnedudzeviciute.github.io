@@ -4,7 +4,7 @@
 
 [![](keck_meteor2.jpg)](keck_meteor.jpg)
 
-[ ![](mw2.JPG) ](mw.JPG)
+[ ![](mw2.jpg) ](mw.JPG)
 
 [ ![](sunset2.jpg) ](sunset.JPG)
 
