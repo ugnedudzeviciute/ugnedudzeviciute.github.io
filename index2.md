@@ -12,4 +12,4 @@
 
 [ ![](jcmt2.jpg) ](jcmt.jpg)
 
-[ ![](full_mw.tif) ](full_mw.tif)
+[ ![](full_mw2.jpg) ](full_mw.tif)
