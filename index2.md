@@ -28,6 +28,7 @@
 *Timelapse of the night sky over the Residencia with the VLT (Very Large Telescope) in the distance at Paranal, Chile.*
 
 <!-- blank line -->
+<figure class="video_container">
  <iframe src="0501night_UT4_1080p.mov" frameborder="0" allowfullscreen="true"> </iframe>
 </figure>
 <!-- blank line -->
