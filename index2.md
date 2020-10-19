@@ -33,5 +33,4 @@
     <source src="0501night_UT4_1080p.mov" type="video/mp4">
   </video>
 </figure>
-*Wonderful night at the VLT (UT4) in Paranal, CHile.*
-<!-- blank line -->
+*Wonderful night at the VLT (UT4) in Paranal, Chile.*
