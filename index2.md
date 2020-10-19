@@ -29,6 +29,8 @@
 
 <!-- blank line -->
 <figure class="video_container">
- <iframe src="0501night_UT4_1080p.mov" frameborder="0" allowfullscreen="true"> </iframe>
+  <video controls="true" width="250" allowfullscreen="true" poster="path/to/poster_image.png">
+    <source src="0501night_UT4_1080p.mov" type="video/mp4">
+  </video>
 </figure>
 <!-- blank line -->
