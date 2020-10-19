@@ -1,6 +1,6 @@
 ## Photos & Videos
 
-[![](Durham_clouds.jpg)](Durham_clouds.jpg)
+[<img src="Durham_clouds.jpg" alt="Noctilucent clouds" width="100"/>](Durham_clouds.jpg)
 *Noctilucent clouds over the Durham Cathedral.*
 
 [![](keck_meteor2.jpg)](keck_meteor.jpg)
