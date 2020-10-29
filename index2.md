@@ -1,7 +1,7 @@
 ## Photos & Videos
 
 <div class="gallery">
-  <a href="Durham_clouds.jpg"><img src="Durham_clouds.jpg" alt="Noctilucent clouds" width="500"/>
+  <a href="Durham_clouds.jpg" data-lightbox="mygallery"><img src="Durham_clouds.jpg" alt="Noctilucent clouds" width="500"/>
   <a href="keck_meteor.jpg"><img src="keck_meteor2.jpg" alt="Noctilucent clouds" width="500"/>
 </div>
     
