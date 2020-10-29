@@ -1,11 +1,10 @@
 ## Photos & Videos
 
 <div class="gallery">
-  <a href="Durham_clouds.jpg" data-lightbox="mygallery"><img src="Durham_clouds.jpg" alt="Noctilucent clouds" width="500"/>
+  <a href="Durham_clouds.jpg" data-lightbox="mygallery" data_title="*Noctilucent clouds over the Durham Cathedral*"><img src="Durham_clouds.jpg" alt="Noctilucent clouds" width="500"/>
   <a href="keck_meteor.jpg"><img src="keck_meteor2.jpg" alt="Noctilucent clouds" width="500"/>
 </div>
     
-*Noctilucent clouds over the Durham Cathedral.*
 
 [<img src="keck_meteor2.jpg" alt="Noctilucent clouds" width="500"/>](keck_meteor.jpg)<br />
 *Meteor crossing the Laser Guide Star AO of the Keck Observatory on top of Mauna Kea, Hawaii.*
