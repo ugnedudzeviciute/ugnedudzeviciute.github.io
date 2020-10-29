@@ -1,22 +1,13 @@
 ## Photos & Videos
 
 <div class="gallery">
-  <a href="Durham_clouds.jpg" data-lightbox="mygallery" data_title="*Noctilucent clouds over the Durham Cathedral*"><img src="Durham_clouds.jpg" alt="Noctilucent clouds" width="500"/>
-  <a href="keck_meteor.jpg"><img src="keck_meteor2.jpg" alt="Noctilucent clouds" width="500"/>
+  <a href="Durham_clouds.jpg" data-lightbox="mygallery" data_title="Noctilucent clouds over the Durham Cathedral"><img src="Durham_clouds.jpg" alt="Noctilucent clouds"></a/>
+  <a href="keck_meteor.jpg" data-lightbox="mygallery" data_title="Meteor crossing the Laser Guide Star AO of the Keck Observatory on top of Mauna Kea, Hawaii"><img src="keck_meteor2.jpg" alt="Noctilucent clouds"></a/>
+  <a href="mw.JPG" data-lightbox="mygallery" data_title="Milky Way on top of Mauna Kea, Hawaii"><img src="mw2.jpg.jpg"></a/>
+  <a href="sunset.JPG" data-lightbox="mygallery" data_title="Sunset with the Submillimetre Array (SMA) on top of Mauna Kea, Hawaii"><img src="sunset2.jpg" alt="Noctilucent clouds"></a/>
+  <a href="sunrise.JPG" data-lightbox="mygallery" data_title="Beautiful morning after the last observing night at James Clerk Maxwell Telescope (JCMT) on top of Mauna Kea, Hawaii"><img src="sunrise2.jpg"></a/>
+  <a href="keck_meteor.jpg" data-lightbox="mygallery" data_title="Meteor crossing the Laser Guide Star AO of the Keck Observatory on top of Mauna Kea, Hawaii"><img src="keck_meteor2.jpg" alt="Noctilucent clouds"></a/>
 </div>
-    
-
-[<img src="keck_meteor2.jpg" alt="Noctilucent clouds" width="500"/>](keck_meteor.jpg)<br />
-*Meteor crossing the Laser Guide Star AO of the Keck Observatory on top of Mauna Kea, Hawaii.*
-
-[<img src="mw2.jpg" alt="Noctilucent clouds" width="500"/>](mw.JPG)<br />
-*Milky Way on top of Mauna Kea, Hawaii.*
-
-[<img src="sunset2.jpg" alt="Noctilucent clouds" width="500"/>](sunset.JPG)<br />
-*Sunset with the Submillimetre Array (SMA) on top of Mauna Kea, Hawaii.*
-
-[<img src="sunrise2.jpg" alt="Noctilucent clouds" width="500"/>](sunrise.JPG)<br />
-*Beautiful morning after the last observing night at James Clerk Maxwell Telescope (JCMT) on top of Mauna Kea, Hawaii.*
 
 [<img src="jcmt2.jpg" alt="Noctilucent clouds" width="500"/>](jcmt.jpg)<br />
 *Milky Way and Jupiter with the James Clerk Maxwell Telescope (JCMT)*
