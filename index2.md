@@ -1,8 +1,8 @@
 ## Photos & Videos
 
 <div class="gallery">
-  <a href="Durham_clouds.jpg"><img src="Durham_clouds.jpg" alt="Noctilucent clouds" width="500"/>]
-  <a href="Durham_clouds.jpg"><img src="Durham_clouds.jpg" alt="Noctilucent clouds" width="500"/>]
+  <a href="Durham_clouds.jpg"><img src="Durham_clouds.jpg" alt="Noctilucent clouds" width="500"/>
+  <a href="Durham_clouds.jpg"><img src="Durham_clouds.jpg" alt="Noctilucent clouds" width="500"/>
 </div>
 *Noctilucent clouds over the Durham Cathedral.*
 
