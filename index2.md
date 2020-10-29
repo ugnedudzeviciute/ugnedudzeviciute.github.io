@@ -1,5 +1,28 @@
 ## Photos & Videos
 
+import ImageGallery from 'react-image-gallery';
+
+const images = [
+  {
+    original: 'Durham_clouds.jpg',
+    thumbnail: 'Durham_clouds.jpg',
+  },
+  {
+    original: 'Durham_clouds.jpg',
+    thumbnail: 'Durham_clouds.jpg',
+  },
+  {
+    original: 'Durham_clouds.jpg',
+    thumbnail: 'Durham_clouds.jpg',
+  },
+];
+
+class MyGallery extends React.Component {
+  render() {
+    return <ImageGallery items={images} />;
+  }
+}
+
 [<img src="Durham_clouds.jpg" alt="Noctilucent clouds" width="500"/>](Durham_clouds.jpg)<br />
 *Noctilucent clouds over the Durham Cathedral.*
 
