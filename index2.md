@@ -10,12 +10,11 @@
   <a href="full_mw.tif" data-lightbox="mygallery" data-title="Panorama of the Milky Way on top of Mauna Kea, Hawaii"><img src="full_mw2.jpg" alt="Noctilucent clouds" width="900"></a>
   <a href="smg.JPG" data-lightbox="mygallery" data-title="Observing #SMGs (submillimeter galaxies) at the James Clerk Maxwell Telescope (JCMT)"><img src="smg2.jpg" alt="Noctilucent clouds" width="900"></a>
   <a href="trails_residencia2.png" data-lightbox="mygallery" data-title="Timelapse of the night sky over the Residencia with the VLT (Very Large Telescope) in the distance at Paranal, Chile"><img src="trails_residencia2.jpg" alt="Noctilucent clouds" width="900"></a>
-</div>
 
 
 <!-- blank line -->
 <figure class="video_container">
-  <video controls="true" width="700" allowfullscreen="true" poster="path/to/poster_image.png">
+  <video controls="true" width="600" allowfullscreen="true" poster="path/to/poster_image.png">
     <source src="0501night_UT4_1080p.mov" type="video/mp4">
   </video>
 </figure>
