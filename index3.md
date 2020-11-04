@@ -12,7 +12,7 @@ The KMOS ultra-deep rotational velocity survey of high redshift (*z*∼1.5) gala
 
 Sub-millimetre galaxies (SMGs) represent some of the most actively star forming galaxies that have ever occurred, with star formation rates in the range ~100-1000 solar masses per year and large molecular gas reservoirs. Several lines of evidence suggest that SMGs are an important element for constraining models of galaxy formation and evolution.  
 
-The ALMA SCUBA-2 UDS survey is the largest available sample of ALMA identified SMGs, selected from the SCUBA-2 Cosmology Legacy Survey. The main findings from the multi-wavelength analysis of this sample are:
+This study analysed the largest available sample of ALMA identified SMGs from the ALMA SCUBA-2 UDS survey (follow-up of the SCUBA-2 Cosmology Legacy Survey). The main findings from the multi-wavelength analysis of this sample are:
 
 - SMGs may represent the highly efficient collapse of gas-rich massive haloes
 - SMGs are broadly consistent with simple homologous systems in the far-infrared, consistent with a centrally illuminated starburst;
