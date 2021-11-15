@@ -1,6 +1,6 @@
 ## About
 
-I am a final year PhD student in the Centre for Extragalactic Astronomy at Durham University. My research primarily focuses on the properties and evolution of normal and dust-obscured star-forming galaxies in the distant Universe. 
+I am a Postdoctoral Fellow at The Max-Planck-Institut für Astronomie in Heidelberg, Germany. My research primarily focuses on the properties and evolution of normal and dust-obscured star-forming galaxies in the distant Universe. 
 
 ### Research Areas
 
