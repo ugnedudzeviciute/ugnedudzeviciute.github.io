@@ -7,6 +7,7 @@ $section-headings-color: rosybrown;
 .page-header {
   background:url("../../Durham_clouds2.jpg");
   background-size:cover;
+  display: flex; /* Enable flexbox */
 }
 
 .logo {
