@@ -18,6 +18,22 @@ $section-headings-color: rosybrown;
   border-radius: 50%; /* This makes the image circular */
 }
 
+@media (max-width: 768px) {
+  .logo {
+    width: 70px; /* Adjust logo size for tablets */
+    top: 10px; /* Adjust position for smaller screens */
+    left: 10px; /* Adjust position for smaller screens */
+  }
+}
+
+@media (max-width: 480px) {
+  .logo {
+    width: 50px; /* Adjust logo size for mobile phones */
+    top: 5px; /* Adjust position for mobile screens */
+    left: 5px; /* Adjust position for mobile screens */
+  }
+}
+
 #Nav a{
      color: #f2f2f2;
      text-decoration:none;
