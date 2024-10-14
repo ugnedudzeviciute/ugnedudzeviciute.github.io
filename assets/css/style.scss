@@ -9,6 +9,15 @@ $section-headings-color: rosybrown;
   background-size:cover;
 }
 
+.logo {
+  position: absolute;
+  top: 20px; /* Adjust based on where you want the logo */
+  left: 20px; /* Adjust based on where you want the logo */
+  width: 100px; /* Adjust logo size */
+  height: auto;
+  border-radius: 50%; /* This makes the image circular */
+}
+
 #Nav a{
      color: #f2f2f2;
      text-decoration:none;
