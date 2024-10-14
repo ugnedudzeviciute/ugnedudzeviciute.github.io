@@ -7,12 +7,11 @@ $section-headings-color: rosybrown;
 .page-header {
   background:url("../../Durham_clouds2.jpg");
   background-size:cover;
-  position: relative;
   display: flex; /* Enable flexbox */
 }
 
 .logo {
-  position: absolute;
+  position: relative;
   top: 30px; /* Adjust based on where you want the logo */
   left: 50px; /* Adjust based on where you want the logo */
   width: 100px; /* Adjust logo size */
